@@ -15,10 +15,11 @@ module.exports = {
       summary: `개발 공부중입니다.`,
     },
     description: `공부 기록용 블로그 입니다.`,
-    siteUrl: `https://jy-blog.netlify.app/`,
+    siteUrl: `https://apple9710.github.io/jy-blog/`,
     social: {
       twitter: ``,
     },
+      pathPrefix: "/jy-blog",
   },
   plugins: [
     `gatsby-plugin-image`,
